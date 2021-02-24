@@ -1,0 +1,16 @@
+body{
+    padding-top: 110px;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-weight: bolder;
+}
